@@ -1,1 +1,1 @@
-# NewsWebsite
+This is an interactive news website designed to provide users with up-to-date news articles. The site is built using HTML, CSS, JavaScript, and integrates an API to fetch live data from external sources.
